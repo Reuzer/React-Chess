@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { Figure } from "./models/figures/Figure";
+import { Figure } from "../models/figures/Figure";
 
 interface LostFiguresProps { 
     title: string;

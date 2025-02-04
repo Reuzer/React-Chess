@@ -1,6 +1,6 @@
 import { FC } from 'react';
 import '../App.css';
-import { Cell } from './models/Cell';
+import { Cell } from '../models/Cell';
 
 interface CellProps {
     cell: Cell;

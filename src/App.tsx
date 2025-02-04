@@ -1,9 +1,9 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import BoardComponent from './components/BoardComponent'
-import { Board } from './components/models/Board';
-import { Player } from './components/models/Player';
-import { Colors } from './components/models/Colors';
+import { Board } from './models/Board';
+import { Player } from './models/Player';
+import { Colors } from './models/Colors';
 import LostFigures from './components/LostFigures';
 
 function App() {
